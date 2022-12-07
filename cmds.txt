@@ -2,3 +2,10 @@ npm init
 npm install --save-dev cypress@9.6.1
 npm install npx 
 npx cypress open
+
+
+npm install --save-dev cypress-file-upload
+
+https://www.automationexercise.com/login
+https://css-tricks.com/examples/DragAndDropFileUploading/
+https://davidwalsh.name/demo/multiple-file-upload.php

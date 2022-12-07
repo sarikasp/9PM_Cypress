@@ -9,7 +9,9 @@
   "author": "sarika",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^9.6.1"
+    "@shelex/cypress-allure-plugin": "^2.34.0",
+    "cypress": "^9.6.1",
+    "cypress-file-upload": "^5.0.8"
   },
   "dependencies": {
     "npx": "^10.2.2"
